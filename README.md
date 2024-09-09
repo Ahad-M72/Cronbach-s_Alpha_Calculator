@@ -1,1 +1,1 @@
-# Cronbach-s_Alpha_Calculator
+# Cronbach's_Alpha_Calculator
