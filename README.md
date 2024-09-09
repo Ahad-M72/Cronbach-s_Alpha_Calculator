@@ -21,3 +21,6 @@ The subsequent rows contain numeric data for each item in the survey or question
 
 ## References
 1. Cronbach, L.J., 1951. Coefficient alpha and the internal structure of tests. psychometrika 16, 297–334 (https://doi.org/10.1007/BF02310555).
+
+``bash
+python Cronbach-s_Alpha.py
