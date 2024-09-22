@@ -19,8 +19,17 @@ The CSV file should be structured as follows:
 The first row contains headers (column names).
 The subsequent rows contain numeric data for each item in the survey or questionnaire.
 
+## How to Cite
+A DOI badge has been added to the README to reference this repository in academic publications and other documentation. This badge links directly to the Zenodo archive, providing a stable and citable DOI.
+[![DOI](https://zenodo.org/badge/854681259.svg)](https://zenodo.org/doi/10.5281/zenodo.13824251)
+
+
+
+
+
+
 ## References
-1. Cronbach, L.J., 1951. Coefficient alpha and the internal structure of tests. psychometrika 16, 297–334 (https://doi.org/10.1007/BF02310555).
+1. Cronbach, L.J., 1951. Coefficient alpha and the internal structure of tests. psychometrika 16, 297–334 .
 
 ```bash
 python Cronbach-s_Alpha.py
