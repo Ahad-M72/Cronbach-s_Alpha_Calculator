@@ -11,7 +11,7 @@ Cronbach's Alpha Formula: Implements the formula for Cronbach's Alpha to check i
 
 ## How to Use
 1. In the script, update the `file_path` variable with the path to your CSV file.
-2. Update the dimnsions
+2. Update the dimensions
 3. Run the script
 
 ## CSV file
